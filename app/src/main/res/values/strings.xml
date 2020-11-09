@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">KDCS</string>
+    <string name="nv_open">Open</string>
+    <string name="nv_close">close</string>
+    <string name="som">আমাদের সম্পর্কে </string>
+    <string name="dadt">☛ দাঁত তোলা  -৫০০/=</string>
+    <string name="dadp">☛ ডিপ ডিরেটেজ               -১৫০০/=</string>
+    <string name="dadp1">☛ পলিশিং          - ৮০০/=</string>
+    <string name="dadp2">☛ পরিষ্কার করা / স্কেলিং -৭০০/=</string>
+    <string name="dadt1">☛ ইনফেকশন   -১০০০-৫০০০/=</string>
+    <string name="dadt2">☛ ড্রাই সকেট ড্রেসিং          - ৩০০/=</string>
+    <string name="dr">ডাঃ এম.এ. কবির (লিপু) </string>
+    <string name="dr2">বি ডি এস (ডি ইউ) \nদাঁত , মাড়ি ও মুখ গহ্বর \nরোগ বিশেষজ্ঞ ও সার্জন \n এম ডি সি রেজিঃ নং -৪৪৫৩</string>
+    <string name="hading">কবির ডেন্টাল কেয়ার  এন্ড সার্জারি </string>
+    <string name="menutxt1">আমাদের সম্পর্কে </string>
+    <string name="headline1">আমাদের সেবা সমূহ </string>
+    <string name="dadporishkar">দাঁত  পরিষ্কার  </string>
+    <string name="brtc">চেম্বার\nবি আর টি সি স্ট্যান্ডের দক্ষিণ - পশ্চিম দিকে \n পঞ্চগড় রোড, ঠাকুরগাঁও।</string>
+    <string name="dadtola">দাঁত তোলা </string>
+    <string name="somoy">সময় \n শনি - শুক্র\n সকাল ১০ টা হতে রাত ৯ টা </string>
+    <string name="rootcanel">রুট ক্যানাল </string>
+    <string name="rootcanel1">রুট ক্যানাল ও ক্যাপ  </string>
+    <string name="rootcanel0">☛ রুট ক্যানাল ড্রেসিং    -৩০০/= </string>
+    <string name="rootcanel3">☛ রুট ক্যানাল (১,৫)         - ২০০০/=</string>
+    <string name="rootcanel4">☛ রুট ক্যানাল (৬,৭)        -২৫০০/=</string>
+    <string name="rootcanel5">☛ রুট ক্যানাল ( আক্কেল দাঁত )        -৩৫০০/=</string>
+    <string name="rootcanel6">☛ কোর বিল্ডাআপ   -১৫০০/=</string>
+    <string name="rootcanel7">☛ ক্যাপ ( প্রতি ইউনিট ) -১৭০০/ ২,৭০০ /৫০০০/=</string>
+    <string name="address">যোগাযোগ </string>
+    <string name="dadsil">দাঁত সিল </string>
+    <string name="dadsil1">দাঁত সিল /ফিলিং </string>
+    <string name="dadsil2">☛ জি আই   -৩০০/=</string>
+    <string name="dadsil3">☛ মিরাকেল মিক্স -৭০০/=</string>
+    <string name="dadsil4">☛ লাইট কিওর   -৮০০/১০০০/=</string>
+    <string name="dadsil5">☛ কসমেটিক ফিলিং -২০০০/=</string>
+    <string name="dadsil6">☛ টিএফ   -২০০/=</string>
+    <string name="dadbadhai">দাঁত বাঁধাই </string>
+    <string name="dadbadhai1">দাঁত বাঁধাই / নকল দাঁত </string>
+    <string name="dadbadhai2">☛ চায়না    -২৫০/=</string>
+    <string name="dadbadhai3">☛ পাকিস্তান -৪৫০/=</string>
+    <string name="dadbadhai4">☛ জাপান -৬০০/=</string>
+    <string name="bacchaderdad">বাচ্চাদের দাঁত </string>
+    <string name="bacchaderdad1">☛ দাঁত তোলা -২০০/=</string>
+    <string name="bacchaderdad2">☛ সিল / ফিলিং -৩০০/=</string>
+    <string name="bacchaderdad3">☛ পালপোটামি   -৭০০/=</string>
+    <string name="bacchaderdad4">☛ পালকেটমি    -১২০০/=</string>
+    <string name="other">অন্যান্য</string>
+    <string name="send">সেন্ড </string>
+    <string name="user">পাসওয়ার্ড</string>
+    <string name="admin">অ্যাডমিন</string>
+    <string name="admind">সমস্ত সেবা</string>
+    <string name="admin1">লগইন </string>
+    <string name="admin3">*সেন্ড করার আগে ইন্টারনেট সংযোগটি চেক করুন </string>
+    <string name="NAME">নাম </string>
+    <string name="NAME5">তারিখঃ  দিন  / মাস /বছর  </string>
+    <string name="NAME6">অগ্রিম সিরিয়াল দিতে নিচের ফরমটি পূরণ করুনঃ</string>
+    <string name="NAME1">বয়স </string>
+    <string name="NAME4">ঠিকানা </string>
+    <string name="NAME3">ফোন নাম্বার </string>
+    <string name="Sirial">অগ্রিম সিরিয়াল দিন </string>
+    <string name="Sirial1">অগ্রিম সিরিয়াল  </string>
+    <string name="other1">☛ এপিসেকটমি  -৩০০/=</string>
+    <string name="other3">☛ আঁকাবাঁকা দাঁত সোজা করা   ( আলোচনা সাপেক্ষে )</string>
+    <string name="other2">☛ টিউমার / শিষ্ট / ফ্রেকচার অপারেশান ৫০০০-১৫০০০/= </string>
+    <string name="headline2">আমাদের বৈশিষ্ট্য </string>
+    <string name="headline10"> +8801740985511 \n +8801712545164 </string>
+    <string name="headline11">মোবাইল \n +8801740985511 \n +8801712545164 </string>
+    <string name="headline12">ইমেইল\n dr.adnan.kbr@gmail.com </string>
+    <string name="headline3">"বি ডি এস" ডিগ্রীধারী  চিকিৎসক দ্বারা চিকিৎসাসেবা । </string>
+    <string name="headline4">সর্বাধুনিক ও সর্বোকৃষ্ট মানের  চিকিৎসার সরন্জাম দ্বারা  চিকিৎসা করা হয়।</string>
+    <string name="headline5">তুলনামুলক কম খরচে সঠিক চিকিৎসার ১০০% নিশ্চয়তা।</string>
+    <string name="headline6">দাঁতের ক্ষতি না করেই উঁচুনিচু ও আকাবাঁকা দাঁত সোজা করা হয়।</string>
+    <string name="headline7">ইমারজেন্সি সহযোগিতা </string>
+    <string name="headline9">অগ্রিম সিরিয়াল জন্য যোগাযোগ করুন </string>
+    <string name="headline8">আমরা আমাদের রোগীদের ইমারজেন্সি সহযোগিতা দিয়ে থাকি। আমাদের সাথে যোগাযোগ করে সহজেই তারা আমাদের ইমারজেন্সি সহযোগিতা নিতে পারে।</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

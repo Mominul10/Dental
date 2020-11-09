@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".AboutFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:background="@color/background_Colour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+    </TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_margin="10dp"
+                android:layout_gravity="center"
+                android:src="@drawable/doctor"
+                android:layout_width="80dp"
+                android:layout_height="80dp">
+
+            </ImageView>
+                <TextView
+                    android:background="@color/txt_background"
+                    android:gravity="center_horizontal"
+                    android:textColor="#ff22"
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/dr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                </TextView>
+                <TextView
+                    android:background="@color/txt_background"
+                    android:gravity="end"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/dr2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

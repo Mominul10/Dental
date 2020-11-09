@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648829899548",
+    "firebase_url": "https://kdcs-ba078.firebaseio.com",
+    "project_id": "kdcs-ba078",
+    "storage_bucket": "kdcs-ba078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648829899548:android:b9df237a5e0ecea01c20d9",
+        "android_client_info": {
+          "package_name": "com.example.kdcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648829899548-n318e6phrejbpnl1c1h7v5v6v3jqdaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ocw4Du4ObgrWT_xDyHjlfWFH7CYrJdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648829899548-n318e6phrejbpnl1c1h7v5v6v3jqdaos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

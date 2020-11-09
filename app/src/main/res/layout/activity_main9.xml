@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main9Activity">
+    <TextView
+        android:padding="10dp"
+        android:textSize="18dp"
+        android:textColor="@color/txt_Colour"
+        android:background="@color/background_Colour"
+        android:text="@string/admind"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </TextView>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <ViewFlipper
+                android:id="@+id/viewfilpper"
+                android:layout_width="match_parent"
+                android:layout_height="250dp">
+            </ViewFlipper>
+            <ImageView
+                android:background="@color/background_Colour"
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+            </ImageView>
+
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadt1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadt2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadp1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadp2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/rootcanel0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/rootcanel3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/rootcanel4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/rootcanel5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/rootcanel6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/rootcanel7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadsil2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadsil3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadsil4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadsil5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadsil6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadbadhai2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadbadhai3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/dadbadhai4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/bacchaderdad1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/bacchaderdad2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/bacchaderdad3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/bacchaderdad4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/other1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/other2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+
+                <TextView
+                    android:textStyle="bold"
+                    android:textSize="18sp"
+                    android:layout_margin="10dp"
+                    android:text="@string/other3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+
+
+
+
+
+</LinearLayout>

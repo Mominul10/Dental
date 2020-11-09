@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main10Activity">
+    <TextView
+        android:padding="10dp"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="@string/address"
+        android:textColor="@color/txt_Colour"
+        android:background="@color/background_Colour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_margin="15dp"
+                android:layout_gravity="center"
+                android:src="@drawable/map"
+                android:layout_width="120dp"
+                android:layout_height="120dp">
+            </ImageView>
+            <TextView
+                android:textColor="@color/tx2_colour"
+                android:background="@color/txt_background"
+                android:textStyle="bold"
+                android:paddingLeft="10dp"
+                android:text="@string/address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+
+                    android:layout_margin="10dp"
+                    android:src="@drawable/home"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+                </ImageView>
+                <TextView
+                    android:background="@color/txt_background"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/brtc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_margin="10dp"
+                    android:src="@drawable/time"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp">
+                </ImageView>
+                <TextView
+                    android:background="@color/txt_background"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/somoy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_margin="10dp"
+                    android:src="@drawable/phone"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp">
+                </ImageView>
+                <TextView
+                    android:background="@color/txt_background"
+                    android:gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="@string/headline11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_margin="10dp"
+                    android:src="@drawable/mail"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+                </ImageView>
+                <TextView
+                    android:background="@color/txt_background"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_horizontal"
+                    android:text="@string/headline12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                </TextView>
+            </LinearLayout>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </ImageView>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

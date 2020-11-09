@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/admin"
+        android:id="@+id/admin"
+        android:icon="@drawable/ic_account">
+
+    </item>
+
+    <item
+        android:title="@string/admind"
+        android:id="@+id/allservic"
+        android:icon="@drawable/tooth">
+
+    </item>
+
+    <item
+        android:title="@string/NAME4"
+        android:id="@+id/ad"
+        android:icon="@drawable/ic_place_black_24dp">
+
+    </item>
+    <item
+        android:title="@string/som"
+        android:id="@+id/as"
+        android:icon="@drawable/abc_vector_test">
+
+    </item>
+
+
+</menu>

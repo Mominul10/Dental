@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main4Activity">
+
+    <TextView
+        android:textStyle="bold"
+        android:background="@color/background_Colour"
+        android:textColor="@color/txt_Colour"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="@string/rootcanel1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </TextView>
+    <ImageView
+        android:src="@drawable/dentist"
+        android:layout_margin="15dp"
+        android:layout_gravity="center"
+        android:layout_width="120dp"
+        android:layout_height="120dp">
+
+    </ImageView>
+    <ImageView
+        android:background="@color/background_Colour"
+        android:layout_width="match_parent"
+        android:layout_height="20dp">
+    </ImageView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:text="@string/rootcanel0"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:text="@string/rootcanel3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:text="@string/rootcanel4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:text="@string/rootcanel5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:text="@string/rootcanel6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_margin="10dp"
+                android:text="@string/rootcanel7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>
